@@ -3,6 +3,7 @@
 #define m (2*n-1)    //结点总数
 #define maxval 10000.0
 #define maxsize 100   //哈夫曼编码的最大位数
+
 typedef struct
 {
  char ch;
